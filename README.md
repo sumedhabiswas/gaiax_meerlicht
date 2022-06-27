@@ -1,4 +1,4 @@
-# GaiaX - MeerLICHT Experiment (Sep-Oct 2021)
+# Preparing BlackGEM and Gaia for O4
 
 Link to the Announcement: https://www.cosmos.esa.int/web/gaia/iow_20210825
 
