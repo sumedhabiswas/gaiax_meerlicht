@@ -1,4 +1,4 @@
-# Preparing BlackGEM and Gaia for O4
+# Preparing for Gaia and BlackGEM Searches for Electromagnetic Counterparts of Gravitational Wave Events during O4
 
 Link to the Announcement: https://www.cosmos.esa.int/web/gaia/iow_20210825
 
