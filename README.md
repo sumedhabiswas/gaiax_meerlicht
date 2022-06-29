@@ -10,4 +10,4 @@ Related paper to understand the GaiaX Alerts Stream better: https://academic.oup
 
 Link to the Overleaf document: https://www.overleaf.com/project/625fef9e2e9d671d94f8d693 
 
-Link to the Field Images of each field: https://drive.google.com/drive/folders/1v6zk6axE2uOoyfIhU8Er6JARxPdioEmx?usp=sharing 
+Link to the field images: https://drive.google.com/drive/folders/1v6zk6axE2uOoyfIhU8Er6JARxPdioEmx?usp=sharing 
