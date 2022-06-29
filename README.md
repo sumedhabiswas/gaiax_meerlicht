@@ -8,4 +8,6 @@ Results Spreadsheet: https://docs.google.com/spreadsheets/d/1W6RFhWzON89IOP0GdkX
 
 Related paper to understand the GaiaX Alerts Stream better: https://academic.oup.com/mnras/article/493/3/3264/5735445 (Kostrzewa-Rutkowska et al 2020)
 
-Link to Overleaf document: https://www.overleaf.com/project/625fef9e2e9d671d94f8d693 
+Link to the Overleaf document: https://www.overleaf.com/project/625fef9e2e9d671d94f8d693 
+
+Link to the Field Images of each field: https://drive.google.com/drive/folders/1v6zk6axE2uOoyfIhU8Er6JARxPdioEmx?usp=sharing 
