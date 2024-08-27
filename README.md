@@ -7,3 +7,5 @@ GaiaX data can be found here: http://gsaweb.ast.cam.ac.uk/alerts/gaiaxtest/
 Related paper to understand the GaiaX Alerts Stream better: https://academic.oup.com/mnras/article/493/3/3264/5735445 (Kostrzewa-Rutkowska et al 2020)
 
 Link to the submitted paper: https://arxiv.org/abs/2307.05212
+
+Link to the accepted paper: https://doi.org/10.1093/mnras/stad2547
